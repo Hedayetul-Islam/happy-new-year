@@ -1,0 +1,27 @@
+* {
+    margin: 0 auto;
+    font-family: "Merriweather", serif;
+}
+
+/* Banner related styles */
+
+header {
+    background-image: url('../images/Banner\ Image.png');
+    width: 1320px;
+    height: 600px;
+}
+
+.banner-p {
+    color: #FFF;
+    text-align: center;
+    font-size: 32px;
+}
+
+.banner-h {
+    color: #FFF;
+    text-align: center;
+    width: 632px;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+}
